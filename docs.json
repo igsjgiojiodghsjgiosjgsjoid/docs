@@ -5,7 +5,7 @@
     "dark": "/logo.webp",
     "light": "/logo.webp"
   },
-  "favicon": "/logo/faviconV2.png",
+  "favicon": "/logo/favicon-32x32.png",
   "colors": {
     "primary": "#252525"
   },
