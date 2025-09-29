@@ -13,6 +13,13 @@
     "name": "Open Aura",
     "url": "https://auraforcreators.com"
   },
+  "feedback": {
+    "suggestEdit": false,
+    "raiseIssue": false
+  },
+  "search": {
+    "prompt": false
+  },
   "navigation": {
     "pages": [
       "index",
