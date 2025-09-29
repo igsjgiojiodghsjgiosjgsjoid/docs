@@ -5,20 +5,13 @@
     "dark": "/logo.webp",
     "light": "/logo.webp"
   },
-  "favicon": "/logo/favicon-32x32.png",
+  "favicon": "/logo/faviconV2.png",
   "colors": {
     "primary": "#252525"
   },
   "topbarCtaButton": {
     "name": "Open Aura",
     "url": "https://auraforcreators.com"
-  },
-  "feedback": {
-    "suggestEdit": false,
-    "raiseIssue": false
-  },
-  "search": {
-    "prompt": false
   },
   "navigation": {
     "pages": [
