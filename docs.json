@@ -5,7 +5,7 @@
     "dark": "/logo.webp",
     "light": "/logo.webp"
   },
-  "favicon": "https://i.ibb.co/v4SHZf8h/NEW-LOGO-AURA.webp",
+  "favicon": "/logo/faviconV2.png",
   "colors": {
     "primary": "#252525"
   },
